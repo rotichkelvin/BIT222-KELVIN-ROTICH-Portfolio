@@ -2,6 +2,8 @@
 
 Welcome to the **Interactive Personal Portfolio Website** project! This repository contains the source code and assets for the website I developed as part of the **BIT 222: Web Technologies 1** course at **Kibabii University**.
 
+[View Site](https://rotichkelvin.github.io/BIT222-KELVIN-ROTICH-Portfolio)
+
 ## Project Overview
 
 The project aims to create an interactive personal portfolio website using HTML, CSS, and JavaScript. The website will showcase skills, projects, academic achievements, and contact information in a professional manner. It includes a responsive design for optimal viewing on various devices and incorporates interactive elements like contact forms, and animations.
