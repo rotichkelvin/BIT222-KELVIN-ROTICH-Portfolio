@@ -30,7 +30,7 @@ The project aims to create an interactive personal portfolio website using HTML,
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd portfolio
+   cd BIT222-KELVIN-ROTICH-Portfolio
    ```
 
 3. **Open the Project in a Code Editor:**
